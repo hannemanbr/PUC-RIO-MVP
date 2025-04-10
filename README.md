@@ -6,10 +6,10 @@ Acesse: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20d
 
 # Notebooks criados no Databricks
 
-- Camada Bronze Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Camada%20Bronze.ipynb
-- Camada Silver Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Camada%20Silver.ipynb
-- Camada Gold Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Camada%20Gold.ipynb
-- Relatórios Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Relatorios.ipynb
+- Camada Bronze Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/1-Thomas_Notebook_PUC-RIO_Camada_Bronze.ipynb
+- Camada Silver Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/2-Thomas_Notebook_PUC-RIO_Camada%20Silver.ipynb
+- Camada Gold Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/3-Thomas_Notebook_PUC-RIO_Camada%20Gold.ipynb
+- Relatórios Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/4-Thomas_Notebook_PUC-RIO_Relatorios.ipynb
 
 ## Objetivo
 Nesse MVP optei por analisar os dados públicos disponibilizados pelo IMDb (Internet Movie Database) no link https://datasets.imdbws.com/ por se tratar de um conteúdo que familiaridade. 
