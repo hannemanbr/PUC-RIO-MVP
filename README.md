@@ -5,9 +5,10 @@
 - Camada Gold Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Camada%20Gold.ipynb
 - Relatórios Link: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/Thomas-Notebook-PUC-RIO%20-%20Relatorios.ipynb
 
-## Documento compelto com os dicionários de dados e todos os detalhes do processo
+## Documento completo com os dicionários de dados e todos os detalhes do processo
+Acesse: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.pdf
 
-
+        
 ## Coleta
 O IMDb é uma Base de Dados de Filmes na Internet, contendo informações de séries, documentários, videogames e outras mídias. Todos os dados utilizados neste trabalho foram coletados nos dados públicos disponibilizados pelo IMDb (Internet Movie Database) no link https://datasets.imdbws.com/ 
 Utilizando a base de acesso publico no endereço https://datasets.imdbws.com/ que disponibiliza os arquivos no formato TSV compactado no padrão GZIP:
