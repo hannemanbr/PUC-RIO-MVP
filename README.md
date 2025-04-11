@@ -20,16 +20,17 @@ Notebooks publicados no Databricks
 - Relatórios Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2594649472873257/1297803066715887/2790372868597530/latest.html
 
 ## Objetivo
-Nesse MVP optei por analisar os dados públicos disponibilizados pelo IMDb (Internet Movie Database) no link https://datasets.imdbws.com/ por se tratar de um conteúdo que familiaridade. 
-Através da análise dos arquivos e da documentação disponibilizada no link https://developer.imdb.com/non-commercial-datasets/, procuro responder às seguintes perguntas:
+Nesse MVP optei por analisar os dados públicos disponibilizados pelo IMDb (Internet Movie Database) por se tratar de um conteúdo que tenho familiaridade. 
+Através da análise dos arquivos e da documentação disponivel no link https://developer.imdb.com/non-commercial-datasets/, procurei responder às seguintes perguntas:
 
-- Quantidade de títulos lançados no Brasil por categoria e década (80, 90, etc.)?
+Quantidade de títulos lançados no Brasil por categoria e década (80, 90, etc.)?
 - Qual categoria teve mais lançamentos no Brasil por década?
-- Todos os títulos que possuem nome exclusivo no Brasil (Com nome diferente do nome original ou comercial).
+- Todos os títulos que possuem nome exclusivo no Brasil (com nome diferente do nome original ou comercial).
 - Qual a porcentagem de pessoas que atuaram como Ator ou Atriz em Títulos do tipo Filmes, Curtas ou Vídeo, lançados no Brasil?
 - Porcentagem de atores do sexo feminino e masculino que atuaram nos títulos do tipo Filme em cada década existente na base.
 - Filmes lançados no Brasil, onde o Diretor(a) atuou como Ator/Atriz.
-- Ranking dos diretores com títulos lançados no Brasil
+- Ranking dos diretores com títulos lançados no Brasil.
+- Filmes brasileiros distribuídos no exterior.
 
 Documentação oficial do dataset do IMDb: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/IMDb%20Non-Commercial%20Datasets.pdf
 
