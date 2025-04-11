@@ -2,7 +2,10 @@
 Thomas Alves de Souza Abrantes
 
 ## Documento com os dicionários de dados e todos os detalhes do processo
-Acesse: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.pdf
+ 
+- Versão MarkDown: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.md
+- Versão Word: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.docx
+- Versão PDF: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.pdf
 
 # Notebooks criados no Databricks
 
