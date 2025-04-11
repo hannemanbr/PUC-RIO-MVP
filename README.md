@@ -1,6 +1,8 @@
 # MVP Engenharia de Dados  - PUC-RIO
 Thomas Alves de Souza Abrantes
 
+Este repositório foi destinado a entrega do MVP da Srpint de Engenharia de Dados da Pós-Graduação na PUC-RIO.
+
 ## Documento com os dicionários de dados e todos os detalhes do processo
  
 - Versão Word: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/MVP%20Engenharia%20de%20Dados%202025.docx
