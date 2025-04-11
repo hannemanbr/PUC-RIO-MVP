@@ -23,5 +23,6 @@ Através da análise dos arquivos e da documentação disponibilizada no link ht
 - Filmes lançados no Brasil, onde o Diretor(a) atuou como Ator/Atriz.
 - Ranking dos diretores com títulos lançados no Brasil
 
+Documentação oficial do dataset do IMDb: https://github.com/hannemanbr/PUC-RIO-MVP/blob/main/IMDb%20Non-Commercial%20Datasets.pdf
 
 
