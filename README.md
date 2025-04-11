@@ -19,6 +19,8 @@ Notebooks publicados no Databricks
 - Camada Gold Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2594649472873257/1517917886114951/2790372868597530/latest.html
 - Relatórios Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2594649472873257/1297803066715887/2790372868597530/latest.html
 
+Link do Google Drive com os mesmo arquivos (caso tenha problema no GitHub): https://drive.google.com/drive/folders/1zZjQfyDJLOGY6TKNUHqNqmVgkAdTChjK?usp=drive_link
+
 ## Objetivo
 Nesse MVP optei por analisar os dados públicos disponibilizados pelo IMDb (Internet Movie Database) por se tratar de um conteúdo que tenho familiaridade. 
 Através da análise dos arquivos e da documentação disponivel no link https://developer.imdb.com/non-commercial-datasets/, procurei responder às seguintes perguntas:
