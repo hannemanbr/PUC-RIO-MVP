@@ -23,7 +23,7 @@ Notebooks publicados no Databricks
 Nesse MVP optei por analisar os dados públicos disponibilizados pelo IMDb (Internet Movie Database) por se tratar de um conteúdo que tenho familiaridade. 
 Através da análise dos arquivos e da documentação disponivel no link https://developer.imdb.com/non-commercial-datasets/, procurei responder às seguintes perguntas:
 
-Quantidade de títulos lançados no Brasil por categoria e década (80, 90, etc.)?
+- Quantidade de títulos lançados no Brasil por categoria e década (80, 90, etc.)?
 - Qual categoria teve mais lançamentos no Brasil por década?
 - Todos os títulos que possuem nome exclusivo no Brasil (com nome diferente do nome original ou comercial).
 - Qual a porcentagem de pessoas que atuaram como Ator ou Atriz em Títulos do tipo Filmes, Curtas ou Vídeo, lançados no Brasil?
